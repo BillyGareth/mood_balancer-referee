@@ -24,6 +24,13 @@ If you've never used Docker, we recommend their _[Orientation and Setup](https:/
 Classes here are two in this task: the Engrossed and the Absent minded
 ![head image](./nv4.PNG)
 
+#### Model Specifications
+![head image](./nv8.PNG)
+![head image](./nv9.PNG)
+
+##### Deep Learning Framework used:
+![head image](./nv10.JPEG)
+
 ## Putty and Windows PowerShell
 #### Open Putty and specify the following:
 * Port - 115200
