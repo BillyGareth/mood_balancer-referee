@@ -25,11 +25,11 @@ Classes here are two in this task: the Engrossed and the Absent minded
 ![head image](./nv4.PNG)
 
 #### Model Specifications
-![head image](./nv8.PNG)
-![head image](./nv9.PNG)
+![head image](./nv8.png)
+![head image](./nv9.png)
 
 ##### Deep Learning Framework used:
-![head image](./nv10.JPEG)
+![head image](./nv10.jpeg)
 
 ## Putty and Windows PowerShell
 #### Open Putty and specify the following:
