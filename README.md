@@ -1,4 +1,4 @@
-# Mood Balancer Project on Environment Container by [Billy Gareth](https://www.linkedin.com/in/billy-gareth-87b052173/)
+# Mood Balancer Project by [Billy Gareth](https://www.linkedin.com/in/billy-gareth-87b052173/)
 
 ![head image](./nv3.PNG)
 
