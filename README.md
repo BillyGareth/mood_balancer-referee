@@ -2,7 +2,7 @@
 
 ![head image](./nv3.PNG)
 
-This container is used in the NVIDIA Deep Learning Institute course Getting Started with AI on Jetson Nano and should be run on an NVIDIA Jetson Nano.  This project is an application of the Jetson AI Fundamentals and the Jetson AI Certification Program. I highly recommend you take the full free course, and check out other self-paced online courses and instructor-led workshops available from [the NVIDIA Deep Learning Institute List of Quality Programs](https://www.nvidia.com/en-us/deep-learning-ai/education/).
+An environment container is used in the NVIDIA Deep Learning Institute course Getting Started with AI on Jetson Nano and should be run on an NVIDIA Jetson Nano.  This project is an application of the Jetson AI Fundamentals and the Jetson AI Certification Program. I highly recommend you take the full free course, and check out other self-paced online courses and instructor-led workshops available from [the NVIDIA Deep Learning Institute List of Quality Programs](https://www.nvidia.com/en-us/deep-learning-ai/education/).
 
 ## Prerequisites/Requirements for this project:
 
